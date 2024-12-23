@@ -18,8 +18,11 @@ This repository contains a detailed analysis of coffee shop sales data. The proj
   - [Slicers](#slicers)
 - [Dashboard Creation](#dashboard-creation)
   - [Power BI Dashboard](#power-bi-dashboard)
+- [Python]
+- [UsedTools]
 - [Contributing](#contributing)
 - [DataSource]
+- [Kaggle]
 
 ## Project Overview
 
@@ -38,7 +41,7 @@ The aim of this project is to analyze sales data from a coffee shop chain to der
 
 ### Data Normalization
 
-- Normalized the dataset to ensure consistency, making it easier to perform accurate analyses and comparisons.
+- Normalized the dataset to ensure consistency, making it easier to perform accurate analysis and comparisons.
 
 ### Data Types Validation
 
@@ -87,6 +90,24 @@ Added slicers for:
 - Imported the data model into Power BI to create interactive dashboards.
   - **Sales Dashboard**: A comprehensive overview of sales performance.
   - **Transactions Dashboard**: Detailed insights into individual transactions.
+  - **Performance Dashboard**: Detailed insights About Shop performance.
+  
+## Python
+
+- Data Cleaning
+- Exploritory analysis
+- Linear Regression
+  - used to predict Revenue
+
+## Used tools
+
+- Excel
+- Power BI
+- Power Query
+- Python
+  - Pandas
+  - sklearn
+  - matplotlib
 
 ## Contributing
 
@@ -94,3 +115,6 @@ Contributions are welcome! Please feel free to fork the repository, make improve
 
 ## Data Source 
 https://www.kaggle.com/datasets/ahmedmohamedibrahim1/coffee-shop-sales-dataset
+
+## Kaggle
+https://www.kaggle.com/code/ibrahimnader/coffee-shop-sales-analysis 
